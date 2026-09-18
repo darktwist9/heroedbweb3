@@ -1,42 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Heroes\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|c:\\users\\t402-doc\\source\\repos\\heroedbweb3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\SuperPoderes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|c:\\users\\t402-doc\\source\\repos\\heroedbweb3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Heroes\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|c:\\users\\t402-doc\\source\\repos\\heroedbweb3\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|c:\\users\\t402-doc\\source\\repos\\heroedbweb3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\SuperPoderes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\SuperPoderes\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Heroes\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\SuperPoderes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|c:\\users\\t402-doc\\source\\repos\\heroedbweb3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A98BF-0372-D802-95CD-BEFF43D48251}|HeroesWeb.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T12:00:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T11:59:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Heroes\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Heroes\\Delete.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T12:08:34.665Z",
+              "WhenOpened": "2026-09-18T11:43:29.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-14T11:59:44.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Heroes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Heroes\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:56:44.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\SuperPoderes\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\SuperPoderes\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T11:54:14.268Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T11:43:15.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\SuperPoderes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Details.cshtml",
-              "RelativeToolTip": "Pages\\SuperPoderes\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:50:02.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Heroes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Heroes\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Heroes\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:52:34.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:51:25.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\SuperPoderes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\SuperPoderes\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:50:06.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\SuperPoderes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\T001-DOC\\Downloads\\heroeproj\\HeroesWeb\\Pages\\SuperPoderes\\Index.cshtml",
-              "RelativeToolTip": "Pages\\SuperPoderes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-14T11:49:59.508Z",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\T402-DOC\\source\\repos\\heroedbweb3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:41:40.809Z",
               "EditorCaption": ""
             }
           ]
